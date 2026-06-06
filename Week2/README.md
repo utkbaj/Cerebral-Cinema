@@ -64,3 +64,9 @@ For each model, run two evaluations:
 | **LoRA / QLoRA Fine-tune** | Attach low-rank adapters to the backbone and fine-tune end-to-end (for CNNs this is just finetuning a few layers)|
 
 **Deliverable:** A short write-up (can be a notebook) with your results table, training curves, and a few lines of analysis per comparison.
+
+**Resouces:**
+- Article on LoRA (just for basic understanding, don't get too involved with this): https://www.ibm.com/think/topics/lora#1029355617
+- Basic idea on peft: https://huggingface.co/blog/peft
+  
+**DEADLINE: 11th June 2026, EOD**
